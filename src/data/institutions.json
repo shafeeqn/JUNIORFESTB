@@ -1,62 +1,57 @@
 [
  {
-  "name": "01. ANVARUL HUDA RAMAPURAM",
-  "place": "RAMAPURAM",
-  "zone": "D"
+  "name": "01. AL ANSAR MUNDAMPARAMBA",
+  "place": "MUNDAMPARAMBA",
+  "zone": "B"
  },
  {
-  "name": "02. BADRIYYA VENGARA",
-  "place": "VENGARA",
-  "zone": "D"
+  "name": "02. DARUL HIDAYA KUTTAMBOOR",
+  "place": "KUTTAMBOOR",
+  "zone": "B"
  },
  {
-  "name": "03. DARUL ARQAM PERINTHALMANNA",
-  "place": "PERINTHALMANNA",
-  "zone": "D"
+  "name": "03. DARUL IHSAN PARIYANGAD",
+  "place": "PARIYANGAD",
+  "zone": "B"
  },
  {
-  "name": "04. DARUL HIKAM CHEMMANIYOD",
-  "place": "CHEMMANIYOD",
-  "zone": "D"
+  "name": "04. DARUL ULOOM SULTHAN BATHERY",
+  "place": "SULTHAN BATHERY",
+  "zone": "B"
  },
  {
-  "name": "05. KOTTUMALA COMPLEX",
-  "place": "KOTTUMALA",
-  "zone": "D"
+  "name": "05. EMM CHERUKOD",
+  "place": "CHERUKOD",
+  "zone": "B"
  },
  {
-  "name": "06. MA'DINUL ULOOM THAZHEKKOD",
-  "place": "THAZHEKKOD",
-  "zone": "D"
+  "name": "06. GTMO DEVARSHOLAI",
+  "place": "DEVARSHOLAI",
+  "zone": "B"
  },
  {
-  "name": "07. NUSRATHUL ISLAM OLAVATTUR",
-  "place": "OLAVATTUR",
-  "zone": "D"
+  "name": "07. IMAM GAZZALI KOOLIVAYAL",
+  "place": "KOOLIVAYAL",
+  "zone": "B"
  },
  {
-  "name": "08. PKMIC POOKKOTTUR",
-  "place": "POOKKOTTUR",
-  "zone": "D"
+  "name": "08. JAMIA ISLAMIYYA MANJERI",
+  "place": "MANJERI",
+  "zone": "B"
  },
  {
-  "name": "11. SUSTIA ARIMBRA",
-  "place": "ARIMBRA",
-  "zone": "D"
+  "name": "09. MALJA'A ELAYOOR",
+  "place": "ELAYOOR",
+  "zone": "B"
  },
  {
-  "name": "10. STMJ PAZHAMLLUR",
-  "place": "PAZHAMLLUR",
-  "zone": "D"
+  "name": "10. MARKAZ NILAMBUR",
+  "place": "NILAMBUR",
+  "zone": "B"
  },
  {
-  "name": "09. SHUHADA PUTHANANGADI",
-  "place": "PUTHANANGADI",
-  "zone": "D"
- },
- {
-  "name": "12. TUMIC TRIPPANACHI",
-  "place": "TRIPPANACHI",
-  "zone": "D"
+  "name": "11. SA'ADA VARAMBATTA",
+  "place": "VARAMBATTA",
+  "zone": "B"
  }
 ]
