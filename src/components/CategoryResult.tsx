@@ -40,7 +40,7 @@ export default function CategoryResult({ category }: { category: string }) {
     return (
         <div className="text-center text-xs m-10 print:m-0 p-8 rounded-xl bg-gradient-to-br from-pink-200 via-sky-200 to-blue-200 shadow-xl">
             <div className="text-3xl font-extrabold mb-5 text-sky-800">
-                JAMIA JUNIOR FEST '25 (ZONE D)
+                JAMIA JUNIOR FEST '25 (ZONE B)
                 <p className="text-lg mt-4 font-semibold">
                     Catergory
                     <span className="bg-sky-800 ml-1.5 px-2 py-1 rounded text-white">{category === "G"

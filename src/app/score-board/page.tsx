@@ -11,7 +11,7 @@ function page() {
       <p className="lg:text-lg font-black mb-5 text-center">
         JAMIA JUNIOR FEST '25{" "}
       </p>
-      <p className="lg:text-lg font-black mb-5 text-center">(ZONE D) </p>
+      <p className="lg:text-lg font-black mb-5 text-center">(ZONE B) </p>
       <Link
         href={"/score-board/all"}
         className="py-1 bg-red-500  text-xl font-semibold border-red-500 hover:bg-red-600 mb-3 border-2 px-2 rounded-md "

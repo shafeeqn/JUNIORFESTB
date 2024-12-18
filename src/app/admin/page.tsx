@@ -9,7 +9,7 @@ function page() {
         Jamia Junior Fest
       </p>
       <p className="lg:text-lg font-black mb-5 text-center">
-Jamia Junior Colleges Arts Fest '25 (ZONE D)     </p>
+Jamia Junior Colleges Arts Fest '25 (ZONE B)     </p>
       <div className="flex gap-2 text-xl font-semibold">
         <Link href={'/programs'}  className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md ">
           Programs
