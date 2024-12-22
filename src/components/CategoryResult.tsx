@@ -105,7 +105,8 @@ export default function CategoryResult({ category }: { category: string }) {
                                 </p>
                             ))}
                             <p className="w-16 text-center font-bold text-base py-2 text-gray-800 bg-gradient-to-br from-yellow-100 to-blue-100 border border-gray-300">
-                                {institution.totalPoints}
+                                {institution.totalPoints===0?"":institution.totalPoints
+                                }
                             </p>
                         </div>
                     </div>
