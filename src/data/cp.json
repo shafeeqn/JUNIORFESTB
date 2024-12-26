@@ -875,19 +875,29 @@
  },
  {
   "code": 2108,
-  "prg": "17SJ"
+  "prg": "17SJ",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2158,
-  "prg": "17SJ"
+  "prg": "17SJ",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 2208,
-  "prg": "17SJ"
+  "prg": "17SJ",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 2259,
-  "prg": "17SJ"
+  "prg": "17SJ",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 2301,
@@ -895,11 +905,16 @@
  },
  {
   "code": 2356,
-  "prg": "17SJ"
+  "prg": "17SJ",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 2409,
-  "prg": "17SJ"
+  "prg": "17SJ",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 2454,
@@ -907,15 +922,21 @@
  },
  {
   "code": 2506,
-  "prg": "17SJ"
+  "prg": "17SJ",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 2557,
-  "prg": "17SJ"
+  "prg": "17SJ",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 2601,
-  "prg": "17SJ"
+  "prg": "17SJ",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2108,
@@ -923,15 +944,22 @@
  },
  {
   "code": 2158,
-  "prg": "18SJ"
+  "prg": "18SJ",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2206,
-  "prg": "18SJ"
+  "prg": "18SJ",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 2260,
-  "prg": "18SJ"
+  "prg": "18SJ",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2307,
@@ -947,11 +975,16 @@
  },
  {
   "code": 2457,
-  "prg": "18SJ"
+  "prg": "18SJ",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 2506,
-  "prg": "18SJ"
+  "prg": "18SJ",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 2557,
@@ -959,7 +992,10 @@
  },
  {
   "code": 2601,
-  "prg": "18SJ"
+  "prg": "18SJ",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 2112,
@@ -1752,11 +1788,16 @@
  },
  {
   "code": 2165,
-  "prg": "53S"
+  "prg": "53S",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 2214,
-  "prg": "53S"
+  "prg": "53S",
+  "grade": "B",
+  "pts": 6,
+  "position": 2
  },
  {
   "code": 2268,
@@ -1768,11 +1809,17 @@
  },
  {
   "code": 2464,
-  "prg": "53S"
+  "prg": "53S",
+  "grade": "B",
+  "pts": 4,
+  "position": 3
  },
  {
   "code": 2521,
-  "prg": "53S"
+  "prg": "53S",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 2568,
@@ -1956,43 +2003,66 @@
  },
  {
   "code": 2116,
-  "prg": "58S"
+  "prg": "58S",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 2169,
-  "prg": "58S"
+  "prg": "58S",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 2220,
-  "prg": "58S"
+  "prg": "58S",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 2270,
-  "prg": "58S"
+  "prg": "58S",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 2316,
-  "prg": "58S"
+  "prg": "58S",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 2424,
-  "prg": "58S"
+  "prg": "58S",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2469,
-  "prg": "58S"
+  "prg": "58S",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 2522,
-  "prg": "58S"
+  "prg": "58S",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2563,
-  "prg": "58S"
+  "prg": "58S",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 2618,
-  "prg": "58S"
+  "prg": "58S",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2122,
@@ -2918,15 +2988,22 @@
  },
  {
   "code": 2131,
-  "prg": "77SS"
+  "prg": "77SS",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 2178,
-  "prg": "77SS"
+  "prg": "77SS",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2224,
-  "prg": "77SS"
+  "prg": "77SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 2283,
@@ -2934,7 +3011,9 @@
  },
  {
   "code": 2325,
-  "prg": "77SS"
+  "prg": "77SS",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2368,
@@ -2942,15 +3021,23 @@
  },
  {
   "code": 2478,
-  "prg": "77SS"
+  "prg": "77SS",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 2531,
-  "prg": "77SS"
+  "prg": "77SS",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 2570,
-  "prg": "77SS"
+  "prg": "77SS",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2629,
@@ -3472,47 +3559,74 @@
  },
  {
   "code": 1,
-  "prg": "89G"
+  "prg": "89G",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 2,
-  "prg": "89G"
+  "prg": "89G",
+  "grade": "A",
+  "pts": 13,
+  "position": 2
  },
  {
   "code": 3,
-  "prg": "89G"
+  "prg": "89G",
+  "grade": "A",
+  "pts": 15,
+  "position": 1
  },
  {
   "code": 5,
-  "prg": "89G"
+  "prg": "89G",
+  "grade": "A",
+  "pts": 11,
+  "position": 3
  },
  {
   "code": 6,
-  "prg": "89G"
+  "prg": "89G",
+  "grade": "A",
+  "pts": 11,
+  "position": 3
  },
  {
   "code": 8,
-  "prg": "89G"
+  "prg": "89G",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 9,
-  "prg": "89G"
+  "prg": "89G",
+  "grade": "A",
+  "pts": 13,
+  "position": 2
  },
  {
   "code": 10,
-  "prg": "89G"
+  "prg": "89G",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 11,
-  "prg": "89G"
+  "prg": "89G",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 4,
-  "prg": "89G"
+  "prg": "89G",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 7,
-  "prg": "89G"
+  "prg": "89G",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 1,
